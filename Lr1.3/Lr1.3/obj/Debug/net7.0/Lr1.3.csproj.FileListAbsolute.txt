@@ -1,0 +1,14 @@
+C:\Users\gr622_yurnal\Desktop\lr1\Lr1.3\Lr1.3\bin\Debug\net7.0\Lr1.3.exe
+C:\Users\gr622_yurnal\Desktop\lr1\Lr1.3\Lr1.3\bin\Debug\net7.0\Lr1.3.deps.json
+C:\Users\gr622_yurnal\Desktop\lr1\Lr1.3\Lr1.3\bin\Debug\net7.0\Lr1.3.runtimeconfig.json
+C:\Users\gr622_yurnal\Desktop\lr1\Lr1.3\Lr1.3\bin\Debug\net7.0\Lr1.3.dll
+C:\Users\gr622_yurnal\Desktop\lr1\Lr1.3\Lr1.3\bin\Debug\net7.0\Lr1.3.pdb
+C:\Users\gr622_yurnal\Desktop\lr1\Lr1.3\Lr1.3\obj\Debug\net7.0\Lr1.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr622_yurnal\Desktop\lr1\Lr1.3\Lr1.3\obj\Debug\net7.0\Lr1.3.AssemblyInfoInputs.cache
+C:\Users\gr622_yurnal\Desktop\lr1\Lr1.3\Lr1.3\obj\Debug\net7.0\Lr1.3.AssemblyInfo.cs
+C:\Users\gr622_yurnal\Desktop\lr1\Lr1.3\Lr1.3\obj\Debug\net7.0\Lr1.3.csproj.CoreCompileInputs.cache
+C:\Users\gr622_yurnal\Desktop\lr1\Lr1.3\Lr1.3\obj\Debug\net7.0\Lr1.3.dll
+C:\Users\gr622_yurnal\Desktop\lr1\Lr1.3\Lr1.3\obj\Debug\net7.0\refint\Lr1.3.dll
+C:\Users\gr622_yurnal\Desktop\lr1\Lr1.3\Lr1.3\obj\Debug\net7.0\Lr1.3.pdb
+C:\Users\gr622_yurnal\Desktop\lr1\Lr1.3\Lr1.3\obj\Debug\net7.0\Lr1.3.genruntimeconfig.cache
+C:\Users\gr622_yurnal\Desktop\lr1\Lr1.3\Lr1.3\obj\Debug\net7.0\ref\Lr1.3.dll
